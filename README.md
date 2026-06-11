@@ -1,0 +1,1 @@
+# prisma-m6-notificacoes
